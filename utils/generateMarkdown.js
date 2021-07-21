@@ -27,6 +27,7 @@ function generateMarkdown(data) {
 7.[Questions](##Questions)
 
 ## Explanation
+${data.description}
 
 ## Install
 
