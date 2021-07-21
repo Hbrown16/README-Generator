@@ -35,7 +35,7 @@ To install you must run the command in your terminal!
 ${data.installCode}
 
 ## Operate
-
+${data.Operate}
 
 ## Contributing
 
