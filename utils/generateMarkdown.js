@@ -30,7 +30,7 @@ function generateMarkdown(data) {
 ${data.explantion}
 
 ## Install
-To install you must run the command in your terminal!
+To install you must run the command in your terminal or git bash!
 
 ${data.installCode}
 
@@ -41,6 +41,9 @@ ${data.Operate}
 ${data.contributing}
 
 ## Testing
+To test the install run this command on terminal or git bash!
+
+${data.testing}
 
 ## License
 
