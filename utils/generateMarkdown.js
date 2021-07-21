@@ -46,8 +46,12 @@ To test the install run this command on terminal or git bash!
 ${data.testing}
 
 ## License
+This was created using: ${data.license} License
 
 ## Questions
+Any questions? Reach me at: [${data.contact}](mailto:${data.contact})
+
+If you want to check my Repo out: [${data.username}](github.com/${data.username})
 
 `;
 }
