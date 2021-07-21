@@ -38,7 +38,7 @@ ${data.installCode}
 ${data.Operate}
 
 ## Contributing
-${data.contributing}
+${data.contribute}
 
 ## Testing
 To test the install run this command on terminal or git bash!
