@@ -45,8 +45,10 @@ const questions = [
         choices: ["GitLab", "Github", "PyPI"],
     },
     {
-        type: "input"
-    }
+        type: "input",
+        message: "What is your email?",
+        name: "Email",
+    },
 ];
 
 // TODO: Create a function to write README file
