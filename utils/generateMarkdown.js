@@ -27,11 +27,15 @@ function generateMarkdown(data) {
 7.[Questions](##Questions)
 
 ## Explanation
-${data.description}
+${data.explantion}
 
 ## Install
+To install you must run the command in your terminal!
+
+${data.installCode}
 
 ## Operate
+
 
 ## Contributing
 
