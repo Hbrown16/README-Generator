@@ -15,7 +15,13 @@ const questions = [
         type: "input",
         name: "explanation",
         message: "Please describe your project and what applications did you use?",
-    }
+    },
+    {
+        type: "input",
+        name: "installCode",
+        message: "Install npm i",
+        default: "npm i",
+    },
 ];
 
 // TODO: Create a function to write README file
