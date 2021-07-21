@@ -22,6 +22,11 @@ const questions = [
         message: "Install npm i",
         default: "npm i",
     },
+    {
+        type: "input",
+        name: "Operate",
+        message: "Provide information on how to use",
+    },
 ];
 
 // TODO: Create a function to write README file
