@@ -5,7 +5,13 @@ const fs = require("fs");
 
 const generateMarkdown = require('./utils/generateMarkdown');
 // TODO: Create an array of questions for user input
-const questions = [];
+const questions = [
+    {
+        type: "input",
+        name: "Title"
+        message: "What is the Title?"
+    }
+];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
