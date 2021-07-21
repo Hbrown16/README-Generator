@@ -20,7 +20,7 @@ function generateMarkdown(data) {
 ## Table of Contents
 1.[Explanations](##Explanation)
 2.[Install](##Install)
-3.[Operate](##Operate)
+3.[Usage](##Operate)
 4.[Contributing](##Contributing)
 5.[Testing](##Testing)
 6.[License](##License)
@@ -34,8 +34,8 @@ To install you must run the command in your terminal or git bash!
 
 ${data.installCode}
 
-## Operate
-${data.Operate}
+## Usage
+${data.usage}
 
 ## Contributing
 ${data.contribute}

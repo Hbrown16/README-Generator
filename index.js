@@ -24,7 +24,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "Operate",
+        name: "Usage",
         message: "Provide information on how to use",
     },
     {
