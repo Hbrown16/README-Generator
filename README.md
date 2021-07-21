@@ -1,7 +1,5 @@
-# undefined
+# README-Generator
 ![GitHub License]()
-
-# Title
 
 ## Table of Contents
 1.[Explanations](##Explanation)
@@ -35,9 +33,9 @@ npm run test
 This was created using: Github License
 
 ## Questions
-Any questions? Reach me at: [undefined](mailto:undefined)
+Any questions? Reach me at: Haley Brown (hbrown1094@gmail.com)
 
-If you want to check my Repo out: [undefined](github.com/undefined)
+If you want to check my Repo out: Haley Brown]https://github.com/Hbrown16()
 
 ## Demo
 
