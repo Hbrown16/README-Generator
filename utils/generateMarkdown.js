@@ -17,7 +17,14 @@ function generateMarkdown(data) {
 
 # Title
 
-
+## Table of Contents
+1. [Explanations](##Explanation)
+2.[Install](##Install)
+3.[Operate](##Operate)
+4.[Contributing](##Contributing)
+5.[Testing](##Testing)
+6.[License](##License)
+7.[Questions](##Questions)
 
 `;
 }
