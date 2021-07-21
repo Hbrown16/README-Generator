@@ -38,6 +38,7 @@ ${data.installCode}
 ${data.Operate}
 
 ## Contributing
+${data.contributing}
 
 ## Testing
 
