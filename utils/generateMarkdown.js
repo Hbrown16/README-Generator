@@ -69,12 +69,12 @@ ${data.testing}
 This was created using: ${data.license} License
 
 ## Questions
-Any questions? Reach me at: [${data.contact}](mailto:${data.contact})
+Any questions? Reach me at: [${data.email}](mailto:${data.email})
 
 If you want to check my Repo out: [${data.username}](github.com/${data.username})
 
 ## Demo
-
+![ReadMe Demo Gif]()
 
 `;
 }
