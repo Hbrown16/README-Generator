@@ -4,10 +4,11 @@ function renderLicenseBadge(license) {
   let licenseType = license.license;
   let yourLicense = ''
   if(licenseType ==='Github') {
-    yourLicense = `![License: Git](https://img.shields.io/badge/license-PyPI-blue.svg)`
-  }else if (licenseType ==='GitLab') {
-    yourLicense = `[]`
+    yourLicense = `![License: Git](https://img.shields.io/badge/license-PyPI-blue.svg)`;
+  }else if (licenseType ==='PyPl') {
+    yourLicense = `![PyPl license](https://img.shields.io.pypi/l/anicolortags.svg)`;
   }
+  return '';
 }
 
 // TODO: Create a function that returns the license link
