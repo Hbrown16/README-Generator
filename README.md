@@ -18,7 +18,7 @@ undefined
 ## Install
 To install you must run the command in your terminal or git bash!
 
-npm i
+npm i 
 
 ## Usage
 undefined
@@ -37,8 +37,8 @@ This was created using: Github License
 ## Questions
 Any questions? Reach me at: [undefined](mailto:undefined)
 
-If you want to check my Repo out: [undefined](github.com/undefined)
+If you want to check my Repo out: [undefined](https://github.com/undefined)
 
 ## Demo
-
+![ReadMe Demo Gif]()
 

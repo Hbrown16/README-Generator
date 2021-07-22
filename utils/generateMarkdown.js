@@ -38,12 +38,19 @@ function generateMarkdown(data) {
 # Title
 
 ## Table of Contents
+
 1.[Explanations](##Explanation)
+
 2.[Install](##Install)
+
 3.[Usage](##Operate)
+
 4.[Contributing](##Contributing)
+
 5.[Testing](##Testing)
+
 6.[License](##License)
+
 7.[Questions](##Questions)
 
 ## Explanation
@@ -71,7 +78,7 @@ This was created using: ${data.license} License
 ## Questions
 Any questions? Reach me at: [${data.email}](mailto:${data.email})
 
-If you want to check my Repo out: [${data.username}](github.com/${data.username})
+If you want to check my Repo out: [${data.username}](https://github.com/${data.username})
 
 ## Demo
 ![ReadMe Demo Gif]()
