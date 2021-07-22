@@ -4,7 +4,9 @@ function renderLicenseBadge(license) {
   let licenseType = license.license;
   let yourLicense = ''
   if(licenseType ==='Github') {
-    yourLicense = '![License: Git](https://img.shields.io/badge/license-PyPI-blue.svg')
+    yourLicense = `![License: Git](https://img.shields.io/badge/license-PyPI-blue.svg)`
+  }else if (licenseType ==='GitLab') {
+    yourLicense = `[]`
   }
 }
 

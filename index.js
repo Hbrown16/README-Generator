@@ -42,7 +42,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "What license is this under?",
-        choices: ["GitLab", "Github", "PyPI"],
+        choices: ["Github", "PyPI"],
     },
     {
         type: "input",
