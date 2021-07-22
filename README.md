@@ -18,7 +18,7 @@ undefined
 ## Install
 To install you must run the command in your terminal or git bash!
 
-npm i if you would likje to install
+npm i
 
 ## Usage
 undefined
@@ -29,7 +29,7 @@ undefined
 ## Testing
 To test the install run this command on terminal or git bash!
 
-npm test
+npm run test
 
 ## License
 This was created using: Github License
