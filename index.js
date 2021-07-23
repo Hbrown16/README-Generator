@@ -13,12 +13,12 @@ const questions = [
     },
     {
         type: "input",
-        name: "explanation",
+        name: "Explanation",
         message: "Please describe your project and what applications did you use?",
     },
     {
         type: "input",
-        name: "installCode",
+        name: "InstallCode",
         message: "Install npm i",
         default: "npm i",
     },
@@ -29,18 +29,18 @@ const questions = [
     },
     {
         type: "input",
-        name: "contribute",
+        name: "Contribute",
         message: "What did you contribute?",
     },
     {
         type: "prompt",
-        name: "testing",
+        name: "Testing",
         message: "If you wish to run a test, enter this command.",
         default: "npm run test",
     },
     {
         type: "list",
-        name: "license",
+        name: "License",
         message: "What license is this under?",
         choices: ["Github", "PyPI"],
     },
@@ -60,7 +60,7 @@ const questions = [
 function writeToFile(fileName, data) {
 
     fs.writeFile(fileName, generateMarkdown(data), (err) =>
-    err? console.error(err) : console.log('COMPLETE')
+    err ? console.error(err) : console.log('COMPLETE')
     );
 }
 
